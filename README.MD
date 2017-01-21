@@ -1,6 +1,6 @@
 your celebrity match
 
-Build Status
+![alt tag](http://vignette3.wikia.nocookie.net/fantendo/images/c/c4/Project_Universal_Mario.png/revision/latest?cb=20130726165045)
 
 The application uses IBM Watson Personality Insights and Twitter to find the celebrities that are similar to your personality. Twitter is being use to get the tweets for a given handler, the text from those tweets is send to Personality Insights, who analyze the text and reply with a personality profile. That profile is compared to celebrity profiles to find the most similar.
 
@@ -27,3 +27,4 @@ Compares your Personality Insights profile to 232 celebrity profiles analyzed wi
 Compares your Personality Insights profile to 232 celebrity profiles analyzed with the service.
 Sorts your matches and shows you the highest and lowest. These are calculated by the euclidean distance between the two.
 Sorts your matches and shows you the highest and lowest. These are calculated by the euclidean distance between the two.
+![Alt text](http://vignette3.wikia.nocookie.net/fantendo/images/c/c4/Project_Universal_Mario.png/revision/latest?cb=20130726165045 "Optional title")
